@@ -7,7 +7,7 @@
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
-  "scripts": {
+  "scripts": "https://github.com/sirius-coderr/POPKID-XTECH"
     "test": "node ibrahim.js",
     "s": "node ibrahim.js",
     "toshtech": "pm2 start ibrahim.js --attach",
